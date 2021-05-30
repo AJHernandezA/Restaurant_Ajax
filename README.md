@@ -1,2 +1,2 @@
 # AJHernandezA.github.io
-Enter here: AJHernandezA.github.io/mod5-solution/
+Enter here: https://ajhernandeza.github.io/mod5-solution/
